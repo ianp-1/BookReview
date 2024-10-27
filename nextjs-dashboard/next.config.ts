@@ -9,15 +9,8 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "assets.hardcover.app",
         port: "",
-        pathname: "/external_data/**",
+        pathname: "/**", // Matches any path under this domain
       },
-      {
-        protocol: "https",
-        hostname: "assets.hardcover.app",
-        port: "",
-        pathname: "/edition/**",
-      },
-      // Add more patterns if needed
     ],
   },
   // ...other Next.js configurations

@@ -1,4 +1,3 @@
-// nextjs-dashboard/app/ui/dashboard/FileUploader.tsx
 "use client";
 import { useState } from "react";
 
