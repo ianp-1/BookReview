@@ -1,0 +1,7 @@
+packages:
+  - "app"
+  - "app/ui"
+  - "components"
+  - "components/ui"
+  - "lib"
+  - "public"
