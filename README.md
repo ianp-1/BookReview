@@ -1,6 +1,6 @@
-# BookReview
+# ShelfMate
 
-1. pnpm install
-2. pnpm run dev
+'pnpm install'
+'pnpm run dev'
 
 backend and site must be run locally for now. do not use the vercel site
